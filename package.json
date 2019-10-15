@@ -1,0 +1,18 @@
+{
+	"main": "dist/index.js",
+	"license": "MIT",
+	"devDependencies": {
+		"@types/react": "^16.8"
+	},
+	"peerDependencies": {
+		"framer": "^1.0",
+		"react": "^16.8"
+	},
+	"framer": {
+		"id": "a196fc72-8a89-42fc-ad60-856ae5881bbe"
+	},
+	"author": "Addison Schultz",
+	"dependencies": {
+		"@ionic/react": "^4.11.1"
+	}
+}
