@@ -1,0 +1,241 @@
+{
+    "packageName": "@ionic/react",
+    "rootFiles": [
+        "node_modules/@ionic/react/dist/types/index.d.ts"
+    ],
+    "additionalImports": [],
+    "out": "code/",
+    "components": {
+        "NavContext": {
+            "ignore": false
+        },
+        "IonLifeCycleContext": {
+            "ignore": false
+        },
+        "IonTabBar": {
+            "ignore": false
+        },
+        "IonRouterOutlet": {
+            "ignore": false
+        },
+        "IonIcon": {
+            "ignore": false
+        },
+        "IonApp": {
+            "ignore": false
+        },
+        "IonTab": {
+            "ignore": false
+        },
+        "IonTabButton": {
+            "ignore": false
+        },
+        "IonRouterLink": {
+            "ignore": false
+        },
+        "IonAvatar": {
+            "ignore": false
+        },
+        "IonBackdrop": {
+            "ignore": false
+        },
+        "IonBadge": {
+            "ignore": false
+        },
+        "IonButton": {
+            "ignore": false
+        },
+        "IonButtons": {
+            "ignore": false
+        },
+        "IonCard": {
+            "ignore": false
+        },
+        "IonCardContent": {
+            "ignore": false
+        },
+        "IonCardHeader": {
+            "ignore": false
+        },
+        "IonCardSubtitle": {
+            "ignore": false
+        },
+        "IonCardTitle": {
+            "ignore": false
+        },
+        "IonCheckbox": {
+            "ignore": false
+        },
+        "IonCol": {
+            "ignore": false
+        },
+        "IonContent": {
+            "ignore": false
+        },
+        "IonChip": {
+            "ignore": false
+        },
+        "IonDatetime": {
+            "ignore": false
+        },
+        "IonFab": {
+            "ignore": false
+        },
+        "IonFabButton": {
+            "ignore": false
+        },
+        "IonFabList": {
+            "ignore": false
+        },
+        "IonFooter": {
+            "ignore": false
+        },
+        "IonGrid": {
+            "ignore": false
+        },
+        "IonHeader": {
+            "ignore": false
+        },
+        "IonImg": {
+            "ignore": false
+        },
+        "IonInfiniteScroll": {
+            "ignore": false
+        },
+        "IonInfiniteScrollContent": {
+            "ignore": false
+        },
+        "IonInput": {
+            "ignore": false
+        },
+        "IonItem": {
+            "ignore": false
+        },
+        "IonItemDivider": {
+            "ignore": false
+        },
+        "IonItemGroup": {
+            "ignore": false
+        },
+        "IonItemOption": {
+            "ignore": false
+        },
+        "IonItemOptions": {
+            "ignore": false
+        },
+        "IonItemSliding": {
+            "ignore": false
+        },
+        "IonLabel": {
+            "ignore": false
+        },
+        "IonList": {
+            "ignore": false
+        },
+        "IonListHeader": {
+            "ignore": false
+        },
+        "IonMenu": {
+            "ignore": false
+        },
+        "IonMenuButton": {
+            "ignore": false
+        },
+        "IonMenuToggle": {
+            "ignore": false
+        },
+        "IonNote": {
+            "ignore": false
+        },
+        "IonPickerColumn": {
+            "ignore": false
+        },
+        "IonNav": {
+            "ignore": false
+        },
+        "IonProgressBar": {
+            "ignore": false
+        },
+        "IonRadio": {
+            "ignore": false
+        },
+        "IonRadioGroup": {
+            "ignore": false
+        },
+        "IonRange": {
+            "ignore": false
+        },
+        "IonRefresher": {
+            "ignore": false
+        },
+        "IonRefresherContent": {
+            "ignore": false
+        },
+        "IonReorder": {
+            "ignore": false
+        },
+        "IonReorderGroup": {
+            "ignore": false
+        },
+        "IonRippleEffect": {
+            "ignore": false
+        },
+        "IonRow": {
+            "ignore": false
+        },
+        "IonSearchbar": {
+            "ignore": false
+        },
+        "IonSegment": {
+            "ignore": false
+        },
+        "IonSegmentButton": {
+            "ignore": false
+        },
+        "IonSelect": {
+            "ignore": false
+        },
+        "IonSelectOption": {
+            "ignore": false
+        },
+        "IonSelectPopover": {
+            "ignore": false
+        },
+        "IonSkeletonText": {
+            "ignore": false
+        },
+        "IonSlide": {
+            "ignore": false
+        },
+        "IonSlides": {
+            "ignore": false
+        },
+        "IonSpinner": {
+            "ignore": false
+        },
+        "IonSplitPane": {
+            "ignore": false
+        },
+        "IonText": {
+            "ignore": false
+        },
+        "IonTextarea": {
+            "ignore": false
+        },
+        "IonThumbnail": {
+            "ignore": false
+        },
+        "IonTitle": {
+            "ignore": false
+        },
+        "IonToggle": {
+            "ignore": false
+        },
+        "IonToolbar": {
+            "ignore": false
+        },
+        "IonVirtualScroll": {
+            "ignore": false
+        }
+    }
+}
